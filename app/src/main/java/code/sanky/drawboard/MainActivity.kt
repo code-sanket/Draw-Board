@@ -29,8 +29,6 @@ class MainActivity : AppCompatActivity() {
             showBrushDialog()
         }
 
-        //this is a dummy commit//
-
     }
 
     private fun showBrushDialog(){
